@@ -1,5 +1,8 @@
 # Tier-Testing-Project
-My Tier Testing Project
+This is my first plugin I have ever made pls no bully :(
+You can modify this plugin as much as you please as this plugin is licensed with GPL 3.0
+
+
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
 ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
