@@ -1,0 +1,10 @@
+DuelMenu: DuelMenu
+DuelMenuChatColor: BLUE
+DuelMenuRanked: DuelMenu Ranked
+DuelMenuRankedChatColor: RED
+ItemDuelMenu: Right click to Open Duel Menu
+ItemDuelMenuChatColor: BLUE
+ItemDuelMenuRanked: Right click to Open Duel Ranked Menu
+ItemDuelMenuRankedChatColor: DARK_PURPLE
+EditKitMenu: Edit Kit Menu
+EditKitMenuChatColor: BLUE

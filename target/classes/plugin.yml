@@ -1,0 +1,29 @@
+name: Tiertestingproject
+version: '1.0-SNAPSHOT'
+main: me.LIErZ.tierTestingProject.TierTestingProject
+api-version: '1.21'
+commands:
+  elo:
+    usage: /<command>
+    description: elo command
+  add:
+    usage: /<command>
+    description: add elo
+  TeleportToWorld:
+    usage: /<command> WorldName
+    description: teleport to world
+  Duel:
+    usage: /<command> (Player)
+    description: duel a player
+  OldDuelCommand:
+    usage: /<command> (Player)
+    description: The old duel command (only made for admins)
+  SetKit:
+    usage: /<command>
+    description: set kit
+  EditKit:
+    usage: /<command>
+    description: Edit existing kits
+  InventoryViewer:
+    usage: /<command> (Player) (3) (Name)
+    description: view inventory for mind
